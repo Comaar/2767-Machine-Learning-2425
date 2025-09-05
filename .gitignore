@@ -1,0 +1,36 @@
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
+.vscode/
+.history/
+
+# Environment variables and virtual environments
+.env
+venv/
+env/
+__pycache__/
+
+# Python specific
+*.pyc
+*.o
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Data files (if large or generated and not meant for version control)
+data/
+output/
+*.csv
+*.tsv
+*.parquet
+*.hdf5
+*.pkl
+*.feather
+
+# Log files
+*.log
+
+# Operating System Files
+.DS_Store # macOS
+Thumbs.db # Windows
