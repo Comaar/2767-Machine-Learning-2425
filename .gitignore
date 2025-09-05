@@ -21,7 +21,6 @@ build/
 # Data files (if large or generated and not meant for version control)
 data/
 output/
-*.csv
 *.tsv
 *.parquet
 *.hdf5
