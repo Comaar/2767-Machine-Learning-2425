@@ -80,7 +80,7 @@ The model training process begins with fitting an initial **XGBoost** classifier
 ## 4. Models Evaluation
 
 ### Table 2 – Models Performance Comparison
-![Table 2 - Model Performance Comparison](images/Table2_Model_Performance_Comparison.png "Model Performance Evaluation)
+![Table 2 - Model Performance Comparison](images/Table2_Model_Performance_Comparison.png "Model Performance Evaluation")
 
 The logistic regression model achieves an overall accuracy of approximately 69%, with strong performance on the “Low” class but weaker precision and recall for “High” and “Medium.” While the model is effective at identifying “Low” cases, it struggles to detect “High” and “Medium” severity levels accurately.
 
