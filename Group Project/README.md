@@ -10,7 +10,7 @@ The team is responsible for structuring the analysis, selecting, and evaluating 
 
 ## Group B
 *   **Marco Piccolo** - 63996
-*   **Marvin Schumann**** - 63529
+*   **Marvin Schumann** - 63529
 *   **Philipp Goetting** - 64737
 *   **Julian Fuchs** - 63539
 *   **Giorgia Glorio** - 65948
