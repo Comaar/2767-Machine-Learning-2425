@@ -2,7 +2,7 @@ This repository contains the work for a group project in the "2767 - Machine Lea
 
 ## Project Overview
 
-The team is responsible for structuring the analysis, selecting, and evaluating machine learning techniques to build a complete pipeline. Key deliverables include a Python notebook detailing the ML pipeline and a report.
+The team is responsible for structuring the analysis, selecting, and evaluating machine learning techniques to build a complete pipeline.
 
 ---
 
