@@ -80,18 +80,7 @@ The model training process begins with fitting an initial **XGBoost** classifier
 ## 4. Models Evaluation
 
 ### Table 2 – Models Performance Comparison
-
-| Model             | Class | Accuracy | Precision | Recall | F-1 Score | AUC  |
-| :---------------- | :---- | :------- | :-------- | :----- | :-------- | :--- |
-| **Logistic Regression** | **L**   | 69%      | 0.73      | 0.56   | 0.78      | 0.82 |
-|                   | **M**   |          | 0.45      | 0.34   | 0.42      | 0.78 |
-|                   | **H**   |          | 0.24      | 0.24   | 0.47      | 0.85 |
-| **Random Forest** | **L**   | 66%      | 0.83      | 0.76   | 0.81      | 0.80 |
-|                   | **M**   |          | 0.76      | 0.45   | 0.58      | 0.88 |
-|                   | **H**   |          | 0.32      | 0.61   | 0.42      | 0.87 |
-| **XGBoost**       | **L**   | 70%      | 0.79      | 0.78   | 0.78      | 0.82 |
-|                   | **M**   |          | 0.78      | 0.47   | 0.60      | 0.85 |
-|                   | **H**   |          | 0.75      | 0.46   | 0.44      | 0.80 |
+![Table 2 - Model Performance Comparison](images/Table2_Model_Performance_Comparison.png "Model Performance Evaluation)
 
 The logistic regression model achieves an overall accuracy of approximately 69%, with strong performance on the “Low” class but weaker precision and recall for “High” and “Medium.” While the model is effective at identifying “Low” cases, it struggles to detect “High” and “Medium” severity levels accurately.
 
